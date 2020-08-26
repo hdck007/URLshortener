@@ -8,8 +8,8 @@ This a django based URLshortener app
 ## The concept
 This URLshortener doesn't use any kind of hashing algorithm. 
 The main idea behind this is the simple use of database for storing and retrieving data.
-The URLs you enter is saved in the database and you get a link in which the id of the stored URL is included. With the help of the id we fetch the URL that is saved  on the corresponding id and then the person is redirected to that URL 
-We have created all the required views in django that habdle all this operation. The UI is not good but it can be improved.
+The URLs you enter is saved in the database and you get a link in which the id of the stored URL is included. With the help of the id we fetch the URL that is saved  on the corresponding id and then the person is redirected to that URL. 
+We have created all the required views in django that handle all this operation. The UI is not good but it can be improved.
 
 ### For contribution
 Would like if people contribute for the UI. Also if they help develop or suggest good hashing algorithm.
