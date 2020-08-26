@@ -18,4 +18,4 @@ Would like if people contribute for the UI. Also if they help develop or suggest
 You can see the live demo here. [URLshotener Website](http://hdck007.pythonanywhere.com/).
 
 #### Conclusion
-Feel free to contribute and fork the repo if you like it then do star it. And if you have some suggestions always welcome.
+Feel free to contribute and fork the repo, if you like it then do star it. And if you have some suggestions always welcome.
